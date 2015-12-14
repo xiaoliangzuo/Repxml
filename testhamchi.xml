@@ -2,7 +2,7 @@
 <manifest>
 
   <remote name="caf"
-          fetch="git://github.com/xiaoliangzuo/>
+          fetch="git://github.com/xiaoliangzuo"/>
   <default revision="dev"
            remote="caf"
            sync-j="4" />
